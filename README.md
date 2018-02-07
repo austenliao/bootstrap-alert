@@ -1,7 +1,7 @@
 # bootstrap-alert
 Popup window display, a useful jquery plug-in,extended Bootstrap Alert and modal class.
 #### Latest version: 1.0.0
-#### Bootstrap4 supported.(bootstrap3 has been tested, it should be running OK)
+#### Bootstrap4 supported.(bootstrap3 hasn't been tested, it should be running OK)
 
 ## Quick start
 #### To get started, check out [https://github.com/austenliao/bootstrap-alert](https://github.com/austenliao/bootstrap-alert)!
@@ -39,3 +39,11 @@ Please see examples/test1.html
 ``` 
 * Alert window would dispear in 3 seconds(default), you also could cancel it.
 * On confirm modal window, when click OK button, callback function would be executed.
+
+## Contributing
+
+We welcome contributions.
+
+## License
+
+MIT License. Copyright 2012-2018 Austen.Liao(https://github.com/austenliao)
