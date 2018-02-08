@@ -28,7 +28,7 @@ $.bsAlert = {
         $(".alert-msg").text(msg);
         setTimeout(function () {
             $(".alert").alert('close')
-        }, 3000);
+        }, 5000);
     },
     createConfirmWin:function (msg) {
         var $h1 = "";
