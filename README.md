@@ -40,6 +40,9 @@ Please see examples/test1.html
 * Alert window would dispear in 3 seconds(default), you also could cancel it.
 * On confirm modal window, when click OK button, callback function would be executed.
 
+![alert images](https://github.com/austenliao/bootstrap-alert/raw/master/examples/20180208101346.png)
+
+![alert images](https://github.com/austenliao/bootstrap-alert/raw/master/examples/20180208101434.png)
 ## Contributing
 
 We welcome contributions.
